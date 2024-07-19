@@ -5,4 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-centos6
+centos:centos6
+debian
+pytorch/pytorch
+ollama/ollama

@@ -9,3 +9,4 @@ centos:centos6
 debian
 pytorch/pytorch
 ollama/ollama
+pandoc/latex

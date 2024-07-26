@@ -10,3 +10,4 @@ debian
 pytorch/pytorch
 ollama/ollama
 pandoc/latex
+chenyufeng/mysql-centos

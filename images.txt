@@ -29,3 +29,5 @@ nginx:1.21.5
 lyumikael/gomodd:v1.20.3
 
 kevinwan/goctl
+
+#change aliyun registory

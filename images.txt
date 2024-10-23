@@ -35,3 +35,7 @@ mysql
 
 jaegertracing/all-in-one:latest
 prom/prometheus:v2.28.1
+
+ollama/ollama
+hariag/llama
+qwenllm/qwen

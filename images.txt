@@ -32,3 +32,6 @@ kevinwan/goctl
 
 #change aliyun registory
 mysql
+
+jaegertracing/all-in-one:latest
+prom/prometheus:v2.28.1

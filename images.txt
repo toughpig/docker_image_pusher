@@ -39,3 +39,5 @@ prom/prometheus:v2.28.1
 ollama/ollama
 
 docker
+
+pagl1acc1/shadowsocks

@@ -41,3 +41,5 @@ ollama/ollama
 docker
 
 pagl1acc1/shadowsocks
+
+requarks/wiki

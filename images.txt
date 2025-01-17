@@ -44,3 +44,5 @@ pagl1acc1/shadowsocks
 
 requarks/wiki
 offlineinternet/kiwix:latest
+
+jeessy/ddns-go

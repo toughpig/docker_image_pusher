@@ -48,3 +48,12 @@ offlineinternet/kiwix:latest
 jeessy/ddns-go
 
 sulinggg/openwrt:x86_64
+
+langchain/langchain
+busybox
+memcached
+alpine
+node
+httpd
+rabbitmq
+neo4j

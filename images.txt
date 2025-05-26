@@ -57,3 +57,5 @@ node
 httpd
 rabbitmq
 neo4j
+
+shadowsocks/shadowsocks-libev

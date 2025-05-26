@@ -59,3 +59,10 @@ rabbitmq
 neo4j
 
 shadowsocks/shadowsocks-libev
+
+linuxserver/qbittorrent
+linuxserver/transmission
+dezhao/bookbrowser_cn
+talebook/talebook
+difegue/lanraragi
+linuxserver/heimdall

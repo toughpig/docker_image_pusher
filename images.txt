@@ -58,4 +58,4 @@ httpd
 rabbitmq
 neo4j
 
-shadowsocks-libev
+shadowsocks/shadowsocks-libev

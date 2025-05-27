@@ -66,3 +66,6 @@ dezhao/bookbrowser_cn
 talebook/talebook
 difegue/lanraragi
 linuxserver/heimdall
+
+whyour/qinglong
+v2fly/v2fly-core
